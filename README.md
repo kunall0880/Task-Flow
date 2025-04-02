@@ -32,7 +32,7 @@ TaskFlow is a React-based task management application designed to simplify task 
 
 ## Technologies Used
 - **Frontend:** React.js, Tailwind CSS / Bootstrap
-- **State Management:** React Context API / Redux (if implemented)
+- **State Management:** React Context API
 - **Authentication:** Local storage-based login system
 
 ## Installation
@@ -68,7 +68,7 @@ Follow these steps to set up TaskFlow locally:
 │   ├── components     # Reusable components
 │   ├── pages          # Page components (Dashboard, Login, etc.)
 │   ├── hooks          # Custom React hooks
-│   ├── context        # Global state management (if implemented)
+│   ├── context        # Global state management
 │   ├── assets         # Images, icons, etc.
 │   ├── App.js         # Main application file
 │   ├── index.js       # Entry point
